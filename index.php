@@ -546,7 +546,7 @@
                         echo "<script>
                         Swal.fire({title: 'Data Nama atau Kontak Sudah digunakan',text: '',icon: 'error',confirmButtonText: 'OK'
                         }).then((result) => {if (result.value){
-                            window.location = 'http://localhost:8800/myrepo/wedding/#kehadiran';
+                            window.location = 'https://undangan-nikah.hidayatrahmat2.repl.co/#kehadiran';
                             }
                         })</script>";
                        } else {
@@ -555,7 +555,7 @@
                         echo "<script>
                         Swal.fire({title: 'Tambah Data Berhasil',text: '',icon: 'success',confirmButtonText: 'OK'
                         }).then((result) => {if (result.value){
-                            window.location = 'http://localhost:8800/myrepo/wedding/#tabel_tamu';
+                            window.location = 'https://undangan-nikah.hidayatrahmat2.repl.co/#tabel_tamu';
                             }
                         })</script>";
             
