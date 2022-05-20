@@ -1,2 +1,4 @@
 language = "html"
 run = "run html"
+language = "php"
+run = "run php"
